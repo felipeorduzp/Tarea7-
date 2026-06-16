@@ -1,0 +1,14 @@
+Es importante que las comunidades puedan registrar y consultar reportes o incidencias en una 
+plataforma tecnológica porque esto les da orden, transparencia y capacidad de acción:
+
+Organización y memoria colectiva: al registrar incidencias en un sistema, se evita que la información se 
+pierda y se construye un historial confiable que respalda las denuncias.
+
+Claridad y verificación: la consulta de reportes permite comparar casos, identificar patrones y validar la 
+veracidad de lo que ocurre en el territorio.
+
+Acceso y participación: una plataforma tecnológica facilita que distintos actores (ciudadanos, instituciones, medios comunitarios)
+ puedan acceder a la información y actuar de manera coordinada.
+
+Rutas de seguimiento: al centralizar los reportes, se pueden definir con mayor precisión los canales hacia 
+autoridades competentes, evitando que las denuncias queden aisladas.
